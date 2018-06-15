@@ -19,7 +19,7 @@ function divSelector(){
 }
 
 function firstListItem(){
-  return $('#pic-list ul li')
+  return $('#pic-list li')
 }
 //});
 
