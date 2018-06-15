@@ -2,7 +2,7 @@
 //$(document).ready(function(){
    
   function paragraphSelector(){
-  return $('div p').$('*');
+  return $('body p').$('*');
  
 }
 
